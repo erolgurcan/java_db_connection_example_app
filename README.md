@@ -1,2 +1,2 @@
-# java_db_connection_example_app
-<h1>Example project using Access db connection and heritance methods</h1>
+<h1>Connecting to Access by Java</h1>
+<h2>Example Applications</h2>
