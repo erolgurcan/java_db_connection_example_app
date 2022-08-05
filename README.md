@@ -1,2 +1,2 @@
-<h1>Connecting to Access by Java</h1>
-<h2>Example Applications</h2>
+<h2>Connecting to Access by Java</h2>
+<h3>Example Applications</h3>
